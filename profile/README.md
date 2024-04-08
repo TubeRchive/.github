@@ -1,3 +1,3 @@
 ## TubeRchive
 
-A website for deleted YouTube videos recovered by the Wayback Machine (or by user submission)
+> "I'm pretty interested in archival, so why not make this website?"
